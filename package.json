@@ -1,0 +1,15 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "Chat through the terminal.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "telnet-client": "^1.2.3"
+  }
+}
